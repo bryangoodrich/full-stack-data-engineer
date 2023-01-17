@@ -9,6 +9,10 @@ This training material will cover this in 4 sections.
 1. Algorithms for analytics and dimensional modeling
 1. Data consumption, reporting, and dashboarding
 
+## Data Sets
+
+We will use a number of large data sets throughout this build. If you cannot use the full referenced data set, a sample amount will be included here. Simply copy it to your data folder and proceed accordingly.
+
 ### This is very MVP at the moment and will be updated regularly until version 1.0
 
 ###### version 0.1.0
