@@ -13,6 +13,8 @@ This training material will cover this in 4 sections.
 
 We will use a number of large data sets throughout this build. If you cannot use the full referenced data set, a sample amount will be included here. Simply copy it to your data folder and proceed accordingly.
 
+Brent Ozar has a 10 GB (1 GB download) at https://downloads.brentozar.com/StackOverflow2010.7z
+
 ### This is very MVP at the moment and will be updated regularly until version 1.0
 
 ###### version 0.1.0
