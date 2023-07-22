@@ -1,5 +1,12 @@
 # So You Want To Be A Data Engineer?
 
+## UPDATES COMING ##
+
+With the use of codespaces and my website coming along, I plan to take a different approach to this content. While it is on hold for now, I will revisit it as a series of codespaces that can be worked through to help develop core DE skills, using the codespaces and online data sources as a way to easily integrate the practices on any machine from anywhere in a seamless way. 
+
+If anyone is interested in helping me make this kind of content available, please feel free to ping me here. I welcome the support!
+
+--------------------------------------------
 What does it mean to be a full stack data engineer? Like a full stack developer handles both backend and frontend development for a website, a full stack engineer is precisely somebody that develops for a data plaform from data collection to its consumption. 
 
 This training material will cover this in 4 sections. 
